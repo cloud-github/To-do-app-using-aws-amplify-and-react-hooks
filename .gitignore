@@ -35,3 +35,5 @@ aws-exports.js
 awsconfiguration.json
 
 .idea/
+
+.firebase/*
